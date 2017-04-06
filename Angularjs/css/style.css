@@ -1,0 +1,24 @@
+#celda {
+	background-color: brown;
+	border: 2px solid cyan;
+}
+
+body{
+	background-color: #444444;
+}
+
+h1{
+	color: white;
+	font: italic;
+}
+
+h2{
+	color: white;
+}
+
+p{
+	font-family: comic;
+	font-size: 15px;
+	font: bold;
+	color: #aaaaff;
+}
